@@ -1,0 +1,292 @@
+-1.43  "V" ""            "methane"                           "74-82-8"     ! CH4
+-1.31  "V" ""            "ethane"                            "74-84-0"     ! C2H6
+-1.46  "V" ""            "propane"                           "74-98-6"     ! C3H8
+-1.58  "V" ""            "butane"                            "106-97-8"    ! C4H{10}
+-1.68  "V" ""            "2-methylpropane"                   "75-28-5"     ! HC(CH3)3 isobutane
+-1.71  "V" ""            "pentane"                           "109-66-0"    ! C5H{12}
+-1.95  "V" ""            "dimethylpropane"                   "463-82-1"    ! C(CH3)4 neopentane
+-0.88  "V" ""            "cyclopentane"                      "287-92-3"    ! C5H{10}
+-1.87  "V" ""            "hexane"                            "110-54-3"    ! C6H{14}
+-1.85  "V" ""            "2-methylpentane"                   "107-83-5"    ! C6H{14} isohexane
+-1.84  "V" ""            "3-methylpentane"                   "96-14-0"     ! C6H{14}
+-0.90  "V" ""            "cyclohexane"                       "110-82-7"    ! C6H{12}
+-1.17  "V" ""            "methylcyclopentane"                "96-37-7"     ! C5H9CH3
+-1.90  "V" ""            "2,2-dimethylbutane"                "75-83-2"     ! C6H{14}
+-1.92  "V" ""            "heptane"                           "142-82-5"    ! C7H{16}
+-2.11  "V" ""            "2,4-dimethylpentane"               "108-08-7"    ! C7H{16}
+-1.25  "V" ""            "methylcyclohexane"                 "108-87-2"    ! C6H{11}CH3
+-2.12  "V" ""            "octane"                            "111-65-9"    ! C8H{18}
+-2.09  "V" ""            "2,2,4-trimethylpentane"            "540-84-1"    ! C8H{18}
+-1.16  "V" ""            "{cis}-1,2-dimethylcyclohexane"     "2207-01-4"   ! C6H{10}(CH3)2
+-0.94  "V" ""            "ethene"                            "74-85-1"     ! C2H4 ethylene
+-0.93  "V" ""            "propene"                           "115-07-1"    ! C3H6 propylene
+-1.01  "V" ""            "1-butene"                          "106-98-9"    ! C4H8
+-0.94  "V" ""            "2-methylpropene"                   "115-11-7"    ! C4H8 isobutene
+-1.22  "V" ""            "1-pentene"                         "109-67-1"    ! C5H{10}
+-0.98  "V" ""            "{trans}-2-pentene"                 "646-04-8"    ! C5H{10}
+-0.41  "V" ""            "cyclopentene"                      "142-29-0"    ! C5H8
+-0.96  "V" ""            "2-methyl-2-butene"                 "513-35-9"    ! C5H{10}
+-1.34  "V" ""            "3-methyl-1-butene"                 "563-45-1"    ! C5H{10}
+-1.23  "V" ""            "1-hexene"                          "592-41-6"    ! C6H{12}
+-0.27  "V" ""            "cyclohexene"                       "110-83-8"    ! C6H{10}
+-1.40  "V" ""            "4-methyl-1-pentene"                "691-37-2"    ! C6H{12}
+-1.22  "V" ""            "{trans}-2-heptene"                 "14686-13-6"  ! C7H{14}
+-0.49  "V" ""            "1-methylcyclohexene"               "591-49-1"    ! C6H9CH3
+-1.59  "V" ""            "1-octene"                          "111-66-0"    ! C8H{16}
+-0.41  "V" ""            "1,3-butadiene"                     "106-99-0"    ! C4H6
+-0.69  "V" ""            "1,4-pentadiene"                    "591-93-5"    ! C5H8
+-0.50  "V" ""            "methylbutadiene"                   "78-79-5"     ! C5H8 isoprene
+-0.74  "V" ""            "1,5-hexadiene"                     "592-42-7"    ! C6H{10}
+-0.29  "V" ""            "2,3-dimethyl-1,3-butadiene"        "513-81-5"    ! C6H{10}
+ 0.01  "V" ""            "ethyne"                            "74-86-2"     ! C2H2 acetylene
+ 0.35  "V" ""            "propyne"                           "74-99-7"     ! CH3CCH
+ 0.12  "V" ""            "1-butyne"                          "107-00-6"    ! C2H5CCH ethylacetylene
+-0.01  "V" ""            "1-pentyne"                         "627-19-0"    ! C3H7CCH
+-0.21  "V" ""            "1-hexyne"                          "693-02-7"    ! C4H9CCH
+-0.44  "V" ""            "1-heptyne"                         "628-71-7"    ! C5H{11}CCH
+-0.52  "V" ""            "1-octyne"                          "629-05-0"    ! C6H{13}CCH
+-0.77  "V" ""            "1-nonyne"                          "3452-09-3"   ! C7H{15}CCH
+ 0.65  "V" ""            "benzene"                           "71-43-2"     ! C6H6
+ 0.56  "V" ""            "methylbenzene"                     "108-88-3"    ! C6H5CH3 toluene
+ 0.45  "V" ""            "ethylbenzene"                      "100-41-4"    ! C6H5C2H5
+ 0.66  "V" ""            "1,2-dimethylbenzene"               "95-47-6"     ! C6H4(CH3)2 $o$-xylene
+ 0.59  "V" ""            "1,3-dimethylbenzene"               "108-38-3"    ! C6H4(CH3)2 $m$-xylene
+ 0.59  "V" ""            "1,4-dimethylbenzene"               "106-42-3"    ! C6H4(CH3)2 $p$-xylene
+ 0.39  "V" ""            "propylbenzene"                     "103-65-1"    ! C6H5C3H7
+ 0.22  "V" ""            "(2-propyl)-benzene"                "98-82-8"     ! C6H5C3H7 isopropylbenzene, cumene
+ 0.63  "V" ""            "1,2,4-trimethylbenzene"            "95-63-6"     ! C6H3(CH3)3
+ 0.29  "V" ""            "butylbenzene"                      "104-51-8"    ! C6H5C4H9
+ 0.33  "V" ""            "{sec}-butylbenzene"                "135-98-8"    ! C6H5C4H9
+ 0.32  "V" ""            "{tert}-butylbenzene"               "98-06-6"     ! C6H5C4H9
+ 0.13  "V" ""            "(1,1-dimethylpropyl)-benzene"      "2049-95-8"   ! C6H5C5H{11} {tert}-amylbenzene
+ 1.77  "V" ""            "naphthalene"                       "91-20-3"     ! C{10}H8
+ 2.49  "V" ""            "acenaphthene"                      "83-32-9"     ! C{12}H{10}
+ 3.14  "V" ""            "anthracene"                        "120-12-7"    ! C{14}H{10}
+ 2.98  "V" ""            "phenanthrene"                      "85-01-8"     ! C{14}H{10}
+ 0.16  "V" ""            "fluoromethane"                     "593-53-3"    ! CH3F
+-0.59  "V" ""            "trifluoromethane"                  "75-46-7"     ! CHF3 R23
+-2.32  "V" ""            "tetrafluoromethane"                "75-73-0"     ! CF4 carbontetrafluoride
+ 0.39  "V" ""            "chloromethane"                     "74-87-3"     ! CH3Cl methyl chloride
+ 1.03  "V" ""            "dichloromethane"                   "75-09-2"     ! CH2Cl2
+ 0.75  "V" ""            "trichloromethane"                  "67-66-3"     ! CHCl3 chloroform
+-0.07  "V" ""            "tetrachloromethane"                "56-23-5"     ! CCl4 carbontetrachloride
+ 0.58  "V" ""            "bromomethane"                      "74-83-9"     ! CH3Br methyl bromide
+ 1.44  "V" ""            "dibromomethane"                    "74-95-3"     ! CH2Br2
+ 1.56  "V" ""            "tribromomethane"                   "75-25-2"     ! CHBr3
+ 0.65  "V" ""            "iodomethane"                       "74-88-4"     ! CH3I
+ 0.57  "V" ""            "chlorofluoromethane"               "593-70-4"    ! CH2FCl R31
+-0.08  "V" ""            "chlorodifluoromethane"             "75-45-6"     ! CHF2Cl R22
+-1.85  "V" ""            "chlorotrifluoromethane"            "75-72-9"     ! CF3Cl R13
+-1.24  "V" ""            "dichlorodifluoromethane"           "75-71-8"     ! CF2Cl2 R12
+-1.31  "V" ""            "bromotrifluoromethane"             "75-63-8"     ! CF3Br
+ 0.08  "V" ""            "1,1-difluoroethane"                "75-37-6"     ! C2H4F2 R152a
+ 0.46  "V" ""            "chloroethane"                      "75-00-3"     ! C2H5Cl
+ 0.51  "V" ""            "bromoethane"                       "74-96-4"     ! C2H5Br
+ 0.53  "V" ""            "iodoethane"                        "75-03-6"     ! C2H5I
+ 0.62  "V" ""            "1,1-dichloroethane"                "75-34-3"     ! CHCl2CH3
+ 1.27  "V" ""            "1,2-dichloroethane"                "107-06-2"    ! CH2ClCH2Cl
+ 1.54  "V" ""            "1,2-dibromoethane"                 "106-93-4"    ! C2H4Br2
+ 1.43  "V" ""            "1-chloro-2-bromoethane"            "107-04-0"    ! C2H4BrCl
+ 0.18  "V" ""            "1,1,1-trichloroethane"             "71-55-6"     ! CH3CCl3 methylchloroform, MCF
+ 1.43  "V" ""            "1,1,2-trichloroethane"             "79-00-5"     ! CHCl2CH2Cl
+ 1.73  "V" ""            "1,1,2,2-tetrachloroethane"         "79-34-5"     ! CHCl2CHCl2
+ 1.00  "V" ""            "pentachloroethane"                 "76-01-7"     ! CHCl2CCl3
+ 1.03  "V" ""            "hexachloroethane"                  "67-72-1"     ! C2Cl6
+-0.04  "V" ""            "2-chloro-1,1,1-trifluoroethane"    "75-88-7"     ! C2H2F3Cl R133
+-0.60  "V" ""            "1,1,2,2-tetrachlorodifluoroethane" "76-12-0"     ! C2F2Cl4 R112
+-1.30  "V" ""            "1,1,2-trichlorotrifluoroethane"    "76-13-1"     ! C2F3Cl3 R113
+-1.84  "V" ""            "1,1-dichlorotetrafluoroethane"     "374-07-2"    ! C2F4Cl2 R114A
+-1.70  "V" ""            "1,2-dichlorotetrafluoroethane"     "76-14-2"     ! C2F4Cl2 R114
+-2.10  "V" ""            "chloropentafluoroethane"           "76-15-3"     ! C2F5Cl R115
+ 0.26  "V" ""            "1-chloropropane"                   "540-54-5"    ! C3H7Cl
+ 0.18  "V" ""            "2-chloropropane"                   "75-29-6"     ! C3H7Cl
+ 0.41  "V" ""            "1-bromopropane"                    "106-94-5"    ! C3H7Br
+ 0.35  "V" ""            "2-bromopropane"                    "75-26-3"     ! C3H7Br
+ 0.43  "V" ""            "1-iodopropane"                     "107-08-4"    ! C3H7I
+ 0.34  "V" ""            "2-iodopropane"                     "75-30-9"     ! C3H7I
+ 0.92  "V" ""            "1,2-dichloropropane"               "78-87-5"     ! C3H6Cl2
+ 1.39  "V" ""            "1,3-dichloropropane"               "142-28-9"    ! C3H6Cl2
+ 1.42  "V" ""            "1,2-dibromopropane"                "78-75-1"     ! C3H6Br2
+ 1.44  "V" ""            "1,3-dibromopropane"                "109-64-8"    ! C3H6Br2
+ 0.10  "V" ""            "1-chlorobutane"                    "109-69-3"    ! C4H9Cl
+ 0.30  "V" ""            "1-bromobutane"                     "109-65-9"    ! C4H9Br
+ 0.02  "V" ""            "1-bromo-2-methylpropane"           "78-77-3"     ! C4H9Br
+ 0.19  "V" ""            "1-iodobutane"                      "542-69-8"    ! C4H9I
+ 0.51  "V" ""            "1,1-dichlorobutane"                "541-33-3"    ! C4H8Cl2
+ 0.05  "V" ""            "1-chloropentane"                   "543-59-9"    ! C5H{11}Cl
+-0.05  "V" ""            "2-chloropentane"                   "625-29-6"    ! C5H{11}Cl
+-0.03  "V" ""            "3-chloropentane"                   "616-20-6"    ! C5H{11}Cl
+-0.15  "V" ""            "1-bromo-3-methylbutane"            "107-82-4"    ! C5H{11}Br
+-0.36  "V" ""            "chloroethene"                      "75-01-4"     ! CH2CHCl vinyl chloride
+ 0.86  "V" ""            "(Z)-1,2-dichloroethene"            "156-59-2"    ! CHClCHCl {cis}-1,2-dichloroethene
+ 0.56  "V" ""            "(E)-1,2-dichloroethene"            "156-60-5"    ! CHClCHCl {trans}-1,2-dichloroethene
+ 0.32  "V" ""            "trichloroethene"                   "79-01-6"     ! C2HCl3 trichloroethylene
+-0.04  "V" ""            "tetrachloroethene"                 "127-18-4"    ! C2Cl4 tetrachloroethylene
+ 0.42  "V" ""            "3-chloro-1-propene"                "107-05-1"    ! C3H5Cl
+ 0.74  "V" ""            "chlorobenzene"                     "108-90-7"    ! C6H5Cl
+ 1.07  "V" ""            "bromobenzene"                      "108-86-1"    ! C6H5Br
+ 1.00  "V" ""            "1,2-dichlorobenzene"               "95-50-1"     ! C6H4Cl2 $o$-dichlorobenzene
+ 0.72  "V" ""            "1,3-dichlorobenzene"               "541-73-1"    ! C6H4Cl2 $m$-dichlorobenzene
+ 0.74  "V" ""            "1,4-dichlorobenzene"               "106-46-7"    ! C6H4Cl2 $p$-dichlorobenzene
+ 1.69  "V" ""            "1,4-dibromobenzene"                "106-37-6"    ! C6H4Br2
+ 1.02  "V" ""            "1-bromo-4-methylbenzene"           "106-38-7"    ! BrC6H4CH3 $p$-bromotoluene
+ 0.87  "V" ""            "1-bromo-2-ethylbenzene"            "1973-22-4"   ! BrC6H4C2H5
+ 0.62  "V" ""            "1-bromo-2-(2-propyl)-benzene"      "7073-94-1"   ! BrC6H4C3H7 $o$-bromocumene
+ 1.39  "V" ""            "dimethyl ether"                    "115-10-6"    ! CH3OCH3
+ 1.13  "V" ""            "dimethyl sulfide"                  "75-18-3"     ! CH3SCH3 DMS
+ 2.15  "X" "2223"        "dimethoxymethane"                  "109-87-5"    ! CH3OCH2OCH3
+ 3.00  "X" "723"         "1,3-dioxolane"                     "646-06-0"    ! C3H6O2
+ 1.28  "X" "795"         "diethyl ether"                     "60-29-7"     ! C2H5OC2H5
+ 1.05  "V" ""            "diethyl sulfide"                   "352-93-2"    ! C2H5SC2H5
+ 1.22  "V" ""            "methyl propyl ether"               "557-17-5"    ! CH3OC3H7
+ 1.47  "V" ""            "methyl 2-propyl ether"             "598-53-8"    ! CH3OC3H7 methyl isopropyl ether
+ 2.54  "X" "723"         "tetrahydrofurane"                  "109-99-9"    ! C4H8O THF
+ 3.70  "X" "723"         "1,4-dioxane"                       "123-91-1"    ! C4H8O2 dioxane
+ 1.33  "V" ""            "ethyl propyl ether"                "628-32-0"    ! C2H5OC3H7
+ 1.62  "X" "794"         "methyl {tert}-butyl ether"         "1634-04-4"   ! CH3OC(CH3)3
+ 2.42  "X" "723"         "2-methyltetrahydrofurane"          "96-47-9"     ! CH3C4H7O
+ 2.29  "X" "723"         "tetrahydropyran"                   "142-68-7"    ! C5H{10}O THP
+ 0.85  "V" ""            "dipropyl ether"                    "111-43-3"    ! C3H7OC3H7
+ 0.39  "V" ""            "diisopropyl ether"                 "108-20-3"    ! C3H7OC3H7
+ 2.59  "V" ""            "1,2-diethoxyethane"                "629-14-1"    ! C2H5OC2H4OC2H5
+ 2.40  "V" ""            "1,1-diethoxyethane"                "105-57-7"    ! (C2H5O)2CHCH3
+ 0.61  "X" "2223"        "dibutyl ether"                     "142-96-1"    ! C4H9OC4H9
+ 0.76  "V" ""            "methoxybenzene"                    "100-66-3"    ! C6H5OCH3 anisole
+ 2.00  "V" ""            "thioanisole"                       "100-68-5"    ! C6H5SCH3
+ 2.87  "V" ""            "2,2'-dichlorodiethylsulfide"       "69020-37-7"  ! (ClCH2CH2)2S mustard gas
+ 3.72  "X" "714"         "methanol"                          "67-56-1"     ! CH3OH
+ 0.91  "V" ""            "methanethiol"                      "74-93-1"     ! CH3SH methyl mercaptan
+ 3.59  "X" "714"         "ethanol"                           "64-17-5"     ! C2H5OH
+ 0.95  "V" ""            "ethanethiol"                       "75-08-1"     ! C2H5SH ethyl mercaptan
+ 3.15  "X" "727"         "2,2,2-trifluoroethanol"            "75-89-8"     ! CF3CH2OH
+ 5.61  "X" "713"         "1,2-ethanediol"                    "107-21-1"    ! HO(CH2)2OH ethylene glycol
+ 3.56  "X" "712"         "1-propanol"                        "71-23-8"     ! C3H7OH
+ 3.48  "X" "712"         "2-propanol"                        "67-63-0"     ! C3H7OH isopropanol
+ 3.69  "X" "2223"        "2-propen-1-ol"                     "107-18-6"    ! C3H5OH allyl alcohol
+ 3.05  "X" "727"         "1,1,1-trifluoro-2-propanol"        "374-01-6"    ! CF3CHOHCH3
+ 3.59  "X" "727"         "2,2,3,3-tetrafluoro-1-propanol"    "76-37-9"     ! CHF2CF2CH2OH
+ 3.04  "X" "727"         "2,2,3,3,3-pentafluoro-1-propanol"  "422-05-9"    ! CF3CF2CH2OH
+ 2.76  "X" "727"         "1,1,1,3,3,3-hexafluoro-2-propanol" "920-66-1"    ! CF3CHOHCF3
+ 6.15  "X" "713"         "1,2,3-propanetriol"                "56-81-5"     ! C3H8O3 glycerol
+ 3.46  "X" "712"         "1-butanol"                         "71-36-3"     ! C4H9OH
+ 3.38  "X" "712"         "2-butanol"                         "78-92-2"     ! C4H{10}O {sec}-butanol
+ 3.31  "X" "712"         "2-methyl-2-propanol"               "75-65-0"     ! C4H{10}O {tert}-butanol
+ 3.31  "X" "712"         "2-methyl-1-propanol"               "78-83-1"     ! C4H{10}O isobutanol
+ 3.29  "X" "712"         "1-pentanol"                        "71-41-0"     ! C5H{11}OH amylalcohol
+ 3.22  "X" "712"         "2-pentanol"                        "6032-29-7"   ! C5H{12}O {sec}-pentanol
+ 3.24  "X" "712"         "2-methyl-1-butanol"                "137-32-6"    ! C5H{12}O isopentanol
+ 3.25  "X" "712"         "2-methyl-2-butanol"                "75-85-4"     ! C5H{12}O {tert}-pentanol
+ 3.20  "V" ""            "1-hexanol"                         "111-27-3"    ! C6H{13}OH
+ 2.70  "V" ""            "3-hexanol"                         "623-37-0"    ! C6H{14}O
+ 3.63  "V" ""            "cyclohexanol"                      "108-93-0"    ! C6H{11}OH
+ 2.87  "V" ""            "2,3-dimethyl-2-butanol"            "594-60-5"    ! C6H{14}O
+ 2.85  "V" ""            "2-methyl-3-pentanol"               "565-67-3"    ! C6H{14}O
+ 2.74  "V" ""            "4-methyl-2-pentanol"               "108-11-2"    ! C6H{14}O
+ 2.88  "V" ""            "2-methyl-2-pentanol"               "590-36-3"    ! C6H{14}O
+ 3.12  "V" ""            "1-heptanol"                        "111-70-6"    ! C7H{15}OH
+ 3.01  "V" ""            "1-octanol"                         "111-87-5"    ! C8H{17}OH
+ 4.79  "X" "724"         "hydroxybenzene"                    "108-95-2"    ! C6H5OH phenol
+ 5.21  "X" "724"         "4-bromophenol"                     "106-41-2"    ! HOC6H4Br
+ 7.77  "X" "724"         "4-nitrophenol"                     "100-02-7"    ! HOC6H4(NO2)
+ 1.87  "V" ""            "thiophenol"                        "108-98-5"    ! C6H5SH
+ 4.30  "X" "725"         "1-hydroxy-2-methylbenzene"         "95-48-7"     ! HOC6H4CH3 2-cresol, $o$-cresol
+ 4.49  "X" "725"         "1-hydroxy-4-methylbenzene"         "106-44-5"    ! HOC6H4CH3 4-cresol, $p$-cresol
+ 7.68  "X" "724"         "4-hydroxybenzaldehyde"             "123-08-0"    ! C6H4(OH)CHO 4-formylphenol
+ 4.34  "X" "725"         "4-{tert}-butylphenol"              "98-54-4"     ! (CH3)3CC6H4OH
+ 2.57  "X" "754"         "ethanal"                           "75-07-0"     ! CH3CHO acetaldehyde
+ 2.52  "X" "754"         "propanal"                          "123-38-6"    ! C2H5CHO propionaldehyde
+ 2.33  "X" "754"         "butanal"                           "123-72-8"    ! C3H7CHO butyraldehyde
+ 2.22  "X" "754"         "pentanal"                          "110-62-3"    ! C4H{9}CHO valeraldehyde
+ 2.06  "X" "754"         "hexanal"                           "66-25-1"     ! C5H{11}CHO
+ 1.96  "X" "754"         "heptanal"                          "111-71-7"    ! C6H{13}CHO
+ 1.68  "X" "754"         "octanal"                           "124-13-0"    ! C7H{15}CHO
+ 1.52  "X" "754"         "nonanal"                           "124-19-6"    ! C8H{17}CHO
+ 3.10  "X" "755"         "{trans}-2-butenal"                 "123-73-9"    ! CH3CHCHCHO crotonaldehyde
+ 2.70  "X" "755"         "{trans}-2-hexenal"                 "6728-26-3"   ! C3H7CHCHCHO
+ 2.52  "X" "755"         "{trans}-2-octenal"                 "2548-87-0"   ! C5H{11}CHCHCHO
+ 3.40  "X" "755"         "{trans}-{trans}-2,4-hexadienal"    "142-83-6"    ! CH3CHCHCHCHCHO
+ 2.95  "V" ""            "benzaldehyde"                      "100-52-7"    ! C6H5CHO
+ 2.79  "X" "754"         "propanone"                         "67-64-1"     ! CH3COCH3 acetone
+ 2.72  "X" "754"         "2-butanone"                        "78-93-3"     ! C2H5COCH3 methyl ethyl ketone, MEK
+ 2.58  "X" "754"         "2-pentanone"                       "107-87-9"    ! C3H7COCH3
+ 2.23  "X" "754"         "2-heptanone"                       "110-43-0"    ! C5H{11}COCH3
+ 2.11  "X" "754"         "2-octanone"                        "111-13-7"    ! C6H{13}COCH3
+ 1.82  "X" "754"         "2-nonanone"                        "821-55-6"    ! C7H{15}COCH3
+ 1.58  "X" "754"         "2-undecanone"                      "112-12-9"    ! C9H{19}COCH3
+ 3.36  "V" ""            "1-phenylethanone"                  "98-86-2"     ! C6H5COCH3 acetophenone
+ 4.91  "?" ""            "ethanoic acid"                     "64-19-7"     ! CH3COOH acetic acid
+ 4.74  "?" ""            "propanoic acid"                    "79-09-4"     ! C2H5COOH propionic acid
+ 4.66  "?" ""            "butanoic acid"                     "107-92-6"    ! C3H7COOH butyric acid
+ 2.04  "?" ""            "methyl methanoate"                 "107-31-3"    ! HCOOCH3 methyl formate
+ 1.94  "V" ""            "ethyl methanoate"                  "109-94-4"    ! HCOOC2H5 ethyl formate
+ 2.43  "X" "713"         "methyl ethanoate"                  "79-20-9"     ! CH3COOCH3 methyl acetate
+ 1.82  "V" ""            "propyl methanoate"                 "110-74-7"    ! HCOOC3H7 propyl formate
+ 1.48  "V" ""            "isopropyl methanoate"              "625-55-8"    ! HCOOC3H7 isopropyl formate
+ 2.26  "X" "713"         "ethyl ethanoate"                   "141-78-6"    ! CH3COOC2H5 ethyl acetate
+ 2.18  "V" ""            "methyl propanoate"                 "554-12-1"    ! C2H5COOCH3 methyl propionate
+ 1.63  "V" ""            "2-methylpropyl methanoate"         "542-55-2"    ! HCOOC4H9 isobutyl formate
+ 2.09  "V" ""            "propyl ethanoate"                  "109-60-4"    ! CH3COOC3H7 propyl acetate
+ 1.94  "V" ""            "isopropyl ethanoate"               "108-21-4"    ! CH3COOC3H7 isopropyl acetate
+ 2.05  "V" ""            "ethyl propanoate"                  "105-37-3"    ! C2H5COOC2H5 ethyl propionate
+ 2.08  "X" "754"         "methyl butanoate"                  "623-42-7"    ! C3H7COOCH3 methyl butyrate
+ 1.56  "V" ""            "isopentyl methanoate"              "110-45-2"    ! HCOOC5H{11} isoamyl formate
+ 1.87  "V" ""            "butyl ethanoate"                   "123-86-4"    ! CH3COOC4H9 butyl acetate
+ 1.73  "V" ""            "2-methylpropyl ethanoate"          "110-19-0"    ! CH3COOC4H9 isobutyl acetate
+ 1.80  "V" ""            "propyl propanoate"                 "106-36-5"    ! C2H5COOC3H7 propyl propionate
+ 1.63  "V" ""            "isopropyl propanoate"              "637-78-5"    ! C2H5COOC3H7 isopropyl propionate
+ 1.83  "V" ""            "ethyl butanoate"                   "105-54-4"    ! C3H7COOC2H5 ethyl butyrate
+ 1.86  "X" "754"         "methyl pentanoate"                 "624-24-8"    ! C4H9COOCH3
+ 1.80  "V" ""            "pentyl ethanoate"                  "628-63-7"    ! CH3COOC5H{11} amyl acetate
+ 1.62  "V" ""            "isopentyl ethanoate"               "123-92-2"    ! CH3COOC5H{11} isoamyl acetate
+ 1.67  "V" ""            "propyl butanoate"                  "105-66-8"    ! C3H7COOC3H7 propyl butyrate
+ 1.85  "V" ""            "ethyl pentanoate"                  "539-82-2"    ! C4H9COOC2H5
+ 1.82  "X" "754"         "methyl hexanoate"                  "106-70-7"    ! C5H{11}COOCH3
+ 1.66  "V" ""            "hexyl ethanoate"                   "142-92-7"    ! CH3COOC6H{13} hexyl acetate
+ 1.46  "V" ""            "pentyl propanoate"                 "624-54-4"    ! C2H5COOC5H{11} amyl propionate
+ 1.50  "X" "754"         "methyl octanoate"                  "111-11-5"    ! C6H{13}COOCH3
+ 1.69  "V" ""            "ethyl heptanoate"                  "106-30-9"    ! C6H{13}COOC2H5
+ 3.14  "V" ""            "methyl benzoate"                   "93-58-3"     ! C6H5COOCH3
+ 3.38  "X" "713"         "ethylamine"                        "75-04-7"     ! C2H5NH2
+ 3.30  "X" "713"         "propylamine"                       "107-10-8"    ! C3H7NH2
+ 3.21  "X" "713"         "butylamine"                        "109-73-9"    ! C4H9NH2
+ 3.00  "X" "721"         "pentylamine"                       "110-58-7"    ! C5H{11}NH2
+ 2.96  "X" "721"         "hexylamine"                        "111-26-2"    ! C6H{13}NH2
+ 3.14  "X" "721"         "dimethylamine"                     "124-40-3"    ! (CH3)2NH
+ 2.98  "X" "721"         "diethylamine"                      "109-89-7"    ! (C2H5)2NH
+ 4.01  "X" "722"         "pyrrolidine"                       "123-75-1"    ! C4H8NH
+ 3.74  "X" "722"         "piperidine"                        "110-89-4"    ! C5H{10}NH
+ 2.68  "X" "721"         "dipropylamine"                     "142-84-7"    ! (C3H7)2NH
+ 3.60  "X" "722"         "hexamethyleneimine"                "111-49-9"    ! (CH2)6NH
+ 2.43  "X" "721"         "dibutylamine"                      "111-92-2"    ! (C4H9)2NH
+ 2.37  "X" "721"         "trimethylamine"                    "75-50-3"     ! (CH3)3N
+ 2.22  "X" "721"         "triethylamine"                     "121-44-8"    ! (C2H5)3N
+ 2.91  "X" "722"         "N-methyl-pyrrolidine"              "120-94-5"    ! C4H8NCH3                  
+ 2.85  "X" "722"         "N-methyl-piperidine"               "626-67-5"    ! C5H{10}NCH3               
+ 7.15  "X" "776"         "ethylenediamine"                   "107-15-3"    ! H2NCH2CH2NH2              
+ 2.85  "X" "714"         "ethane nitrile"                    "75-05-8"     ! CH3CN acetonitrile        
+ 2.82  "X" "713"         "propane nitrile"                   "107-12-0"    ! C2H5CN propionitrile      
+ 2.67  "X" "713"         "butane nitrile"                    "109-74-0"    ! C3H7CN butyronitrile      
+ 2.72  "V" ""            "nitroethane"                       "79-24-3"     ! C2H5NO2                   
+ 2.45  "V" ""            "1-nitropropane"                    "108-03-2"    ! C3H7NO2                   
+ 2.30  "V" ""            "2-nitropropane"                    "79-46-9"     ! CH3CH(NO2)CH3             
+ 3.02  "V" ""            "nitrobenzene"                      "98-95-3"     ! C6H5NO2                   
+ 2.63  "V" ""            "2-nitrotoluene"                    "88-72-2"     ! C6H4(NO2)CH3              
+ 2.53  "V" ""            "3-nitrotoluene"                    "99-08-1"     ! C6H4(NO2)CH3              
+ 3.44  "X" "719"         "pyridine"                          "110-86-1"    ! C5H5N
+ 3.39  "X" "719"         "2-methylpyridine"                  "109-06-8"    ! C5H4NCH3 2-picoline, $\alpha $-picoline
+ 3.50  "X" "719"         "3-methylpyridine"                  "108-99-6"    ! C5H4NCH3 3-picoline, $\beta $-picoline
+ 3.61  "X" "719"         "4-methylpyridine"                  "108-89-4"    ! C5H4NCH3
+ 3.17  "X" "719"         "2-ethylpyridine"                   "100-71-0"    ! C5H4NC2H5
+ 3.37  "X" "719"         "3-ethylpyridine"                   "536-78-7"    ! C5H4NC2H5
+ 3.46  "X" "719"         "4-ethylpyridine"                   "536-75-4"    ! C5H4NC2H5
+ 3.53  "X" "719"         "2,3-dimethylpyridine"              "583-61-9"    ! C5H3N(CH3)2
+ 3.56  "X" "719"         "2,4-dimethylpyridine"              "108-47-4"    ! C5H3N(CH3)2
+ 3.45  "X" "719"         "2,5-dimethylpyridine"              "589-93-5"    ! C5H3N(CH3)2
+ 3.37  "X" "719"         "2,6-dimethylpyridine"              "108-48-5"    ! C5H3N(CH3)2
+ 3.82  "X" "719"         "3,4-dimethylpyridine"              "583-58-4"    ! C5H3N(CH3)2
+ 3.55  "X" "719"         "3,5-dimethylpyridine"              "591-22-0"    ! C5H3N(CH3)2
+ 4.04  "X" "755"         "2-methylpyrazine"                  "109-08-0"    ! C4N2H3CH3
+ 4.00  "X" "755"         "2-ethylpyrazine"                   "13925-00-3"  ! C4N2H3(C2H5)
+ 3.70  "X" "755"         "2-isobutylpyrazine"                "29460-92-2"  ! C4N2H3C4H9
+ 3.22  "X" "755"         "2-ethyl-3-methoxypyrazine"         "25680-58-4"  ! C4N2H3(C2H5)OCH3
+ 2.70  "X" "755"         "2-isobutyl-3-methoxypyrazine"      "24683-00-9"  ! C4N2H3(C4H9)OCH3

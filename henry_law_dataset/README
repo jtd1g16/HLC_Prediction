@@ -1,0 +1,55 @@
+A full list of the files in this supplement can be found in the MANIFEST
+file. This README file summarizes their contents.
+
+1) The files henry_*.f90 contain the Fortran 90 code that was used to
+   convert the values from the original publications to a uniform format
+   and unit. The code can be used to double-check that the conversion
+   was done correctly. The relevant Fortran and related files are:
+
+   henry.f90            main program
+   henry_ref0500.f90    references    1 to  500
+   henry_ref1000.f90    references  501 to 1000
+   henry_ref1500.f90    references 1001 to 1500
+   henry_ref2000.f90    references 1501 to 2000
+   henry_ref2500.f90    references 2001 to 2500
+   henry_ref3000.f90    references 2501 to 3000
+   henry_ref3500.f90    references 3001 to 3500
+   henry_util.f90       utilities
+   henry_mem.f90        memory declarations
+   henry.nml            namelist
+   Makefile             Make utility to build executable from source code
+   sfmakedepend         calculate dependencies between Fortran files
+   input/*.dat          input files
+
+   To see how the original literature data was converted, first find the
+   reference in the bibliography file henry.bib and note the reference
+   number (i.e., the BibTeX key). Next, open the appropriate
+   henry_ref*.f90 file and find the subroutine for this reference.
+
+2) If the original publications contained measurements at different
+   temperatures, the fortran code often contains all individual data
+   points, not just the regression line that was used to show the
+   temperature dependence in the table. In addition, this supplement
+   contains plots showing the data points as well as the regression
+   lines:
+
+   output/gnuplot/Tdep.pdf
+   output/gnuplot/*.gnu      (gnuplot files with data)
+
+3) If the Henry's law constants are needed in electronic form, it is
+   cumbersome to extract them from the pdf of this article. Therefore,
+   the files output/*.f90 in this supplement contain declarations of the
+   Henry's law constants in Fortran 90 syntax:
+
+   alpha.f90  [dimensionless]
+   Hbp.f90    [mol/(kg*atm)]
+   HbpSI.f90  [mol/(kg*Pa)]
+   Hcc.f90    [dimensionless]
+   Hcp.f90    [M/atm]
+   HcpSI.f90  [mol/(m^3*Pa)]
+   Hxp.f90    [1/atm]
+   KHcc.f90   [dimensionless]
+   KHpc.f90   [m3*atm/mol]
+   KHpcSI.f90 [m3*Pa/mol]
+   KHpx.f90   [atm]
+

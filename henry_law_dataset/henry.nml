@@ -1,0 +1,18 @@
+! -*- f90 -*- Time-stamp: <2015-02-10 14:54:26 sander>
+
+&CTRL
+
+! conversion factor, see henry_util.f90 for details:
+iconv_fact = 1 ! KHcpSI [mol/(m3*Pa)]
+!iconv_fact = 2 ! KHcp   [M/atm]
+
+! activate next line to show all pictures:
+!l_showpics = T
+
+! activate next line to see bibtex labels in document:
+!l_showbiblabel = T
+
+! activate next line to get debugging output:
+l_debug = T
+
+/
