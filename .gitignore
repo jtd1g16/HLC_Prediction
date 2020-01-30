@@ -12,3 +12,11 @@ test_scores.joblib
 train_scores.joblib
 models/
 diss_scores/
+averages_by_feature.csv
+scree_plot.png
+scree_plot100.png
+scree_plot_100.png
+scree_plot_150.png
+scree_plot_200.png
+scree_plot_250.png
+scree_plot_50.png
