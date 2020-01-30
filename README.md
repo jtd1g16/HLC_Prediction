@@ -13,3 +13,17 @@ Supervised machine learning algorithms were trained (using the calculated descri
 - 6 sets of descriptors
 
 # Dissertation coming soon to an eAssignments near you!
+
+## Dependancies
+- Jupyter notebooks, with the following python packages installed:
+	- pandas (data structures)
+	- numpy (maths)
+	- statsmodels.api (stats)
+	- cirpy (conversion between chemical identifiers)
+	- ipywidgets and IPython.display (widgets and nicer outputs)
+	- RDKit (descriptors)
+	- matplotlib.pyplot (visualisation)
+	- scikit-learn (models, feature selection, PCA)
+	- joblib (saving python objects)
+	- mpld3 (hover-over labels for plots)
+- DRAGON 6 (not within python, external software for descriptor calculation)
