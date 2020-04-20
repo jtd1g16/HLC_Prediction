@@ -12,8 +12,6 @@ Supervised machine learning algorithms were trained (using the calculated descri
 - 4 feature selection methods
 - 6 sets of descriptors
 
-# Dissertation coming soon to an eAssignments near you!
-
 ## Dependancies
 - Jupyter notebooks, with the following python packages installed:
 	- `pandas` (data structures)
